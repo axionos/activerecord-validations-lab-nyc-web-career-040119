@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby '2.6.1'
 gem 'rails'
 gem 'sqlite3', '~> 1.3.6'
 gem 'bootsnap'
